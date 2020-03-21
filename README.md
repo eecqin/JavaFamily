@@ -67,7 +67,7 @@
 - 并发与多线程
 
   - 线程状态转换与通信机制
-  - 线程同步与互斥
+  - [线程同步与互斥](https://songlee24.github.io/2015/04/29/linux-syn-mut-difference/)
   - 线程池知识点
   - 常见的JUC工具类
   - [【面试】如果把线程当作一个人来对待，所有问题都瞬间明白了](https://mp.weixin.qq.com/s/PrUa0tFyu3UZllP2FRDyVA)
