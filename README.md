@@ -51,8 +51,19 @@
 
 - [Web](https://jiajunhuang.com/articles/2017_10_19-web_dev_series.md.html)
 
+- 高并发/高可用
+  - [别扯了，这才是应对高并发的正确处理思路！](https://www.cnblogs.com/Howinfun/articles/11946952.html)
+  - [一文读懂分布式架构知识体系](https://www.cnblogs.com/Howinfun/articles/11840841.html)
+  
+- QPS
+  - [如何提高系统的吞吐量（QPS/TPS)](https://juejin.im/post/5af645f651882567105fd1b2)
+  - [服务器性能指标解释：QPS、TPS、RT、Load、PV、UV](https://blog.csdn.net/qq_39416311/article/details/84892625)
+  - [深入浅出QPS、RT和最佳线程数](https://www.jianshu.com/p/8532ac88ce72)
+  - [关于服务器性能的一些思考](https://juejin.im/entry/58244432d203090055276f19)
+  - [闲谈性能优化之QPS](https://blog.51cto.com/memoryless/1017948)
+  
 - Java基础核心串讲
-
+  - [Java知识体系最强总结(2020版)](https://blog.csdn.net/ThinkWon/article/details/103592572)
   - 计算机操作系统与Linux[[novice]](https://blog.csdn.net/zhenguo26/article/details/80754991)[master](https://www.redhat.com/zh/topics/linux/what-is-linux)[guru]
   - [学习linux命令，看这篇2w多字的命令详解就够了](https://mp.weixin.qq.com/s/7bSwKiPmtJbs7FtRWZZqpA)
   - [图解HTTP协议](https://mp.weixin.qq.com/s/AK1Pb9rx0q5Hf8dq6HNOhw)
@@ -67,7 +78,6 @@
   - [面试官问我同步容器（如Vector）的所有操作一定是线程安全的吗？我懵了！](https://mp.weixin.qq.com/s/0cMrE87iUxLBw_qTBMYMgA)
   
 - [深入浅出JVM](https://zhuanlan.zhihu.com/p/84298509)
-
   - [JVM内存模型](https://juejin.im/post/5ad5c0216fb9a028e014fb63)
   - [【JVM故事】了解JVM的结构，好在面试时吹牛](https://mp.weixin.qq.com/s/fit90VdZUa2pG9lbET0i7w)
   - [看完这篇垃圾回收，和面试官扯皮没问题了](https://mp.weixin.qq.com/s/_AKQs-xXDHlk84HbwKUzOw)
@@ -77,7 +87,6 @@
   - [垃圾回收器、垃圾回收算法](https://segmentfault.com/a/1190000010463373)
 
 - 并发与多线程
-
   - [线程状态转换与通信机制](https://www.cnblogs.com/ygj0930/p/6561589.html)
   - [线程同步与互斥](https://songlee24.github.io/2015/04/29/linux-syn-mut-difference/)
   - [线程池知识点](https://blog.csdn.net/llengnuo/article/details/77918746)
@@ -86,8 +95,9 @@
   - [Java 并发进阶常见面试题总结](https://mp.weixin.qq.com/s/cdHfTTvMpH60SwG2bjTMBw)
   - [如果你这样回答“什么是线程安全”，面试官都会对你刮目相看（建议珍藏）](https://mp.weixin.qq.com/s/WDeewsvWUEBIuabvVVhweA)
   - [乐观锁、悲观锁](https://mp.weixin.qq.com/s/WtAdXvaRuBZ-SXayIKu1mA)
-- 常用工具集
+  - [乐观锁和悲观锁的AQS、sync和Lock](https://blog.csdn.net/qq_35190492/article/details/104691668)
 
+- 常用工具集
   - JVM问题排查工具-JMC
   - IDEA开发神器
   - 线上调试神器-btrace
@@ -95,7 +105,6 @@
   - [Linux常用分析工具](https://blog.csdn.net/tjcwt2011/article/details/73903538)
  
 - 数据结构与算法
-
   - [从二叉搜索树到B+树](https://blog.csdn.net/z702143700/article/details/49079107)
   - [经典问题之字符串](https://juejin.im/post/5b8f9aed6fb9a05d2e1b75d9)
   - [经典问题之TOPK](https://juejin.im/entry/5c565fb7f265da2d84105958)
@@ -113,7 +122,7 @@
   - [什么是单点登录(SSO)](https://mp.weixin.qq.com/s/drPVkRbCsDIlX6Ls2pDmqA)
   
 - [高并发架构基石-缓存](https://github.com/AobingJava/JavaFamily/tree/master/docs/redis)
-
+  - [高并发场景下缓存处理的一些思路！](https://www.cnblogs.com/Howinfun/p/11661450.html)
   - [Redis基础知识](https://github.com/AobingJava/JavaFamily/blob/master/docs/redis/Redis%E5%9F%BA%E7%A1%80.md)
   - [缓存击穿、雪崩、穿透](https://github.com/AobingJava/JavaFamily/blob/master/docs/redis/%E7%BC%93%E5%AD%98%E5%87%BB%E7%A9%BF%E3%80%81%E9%9B%AA%E5%B4%A9%E3%80%81%E7%A9%BF%E9%80%8F.md)
   - [集群高可用、哨兵、持久化、LRU](https://github.com/AobingJava/JavaFamily/blob/master/docs/redis/%E9%9B%86%E7%BE%A4%E9%AB%98%E5%8F%AF%E7%94%A8%E3%80%81%E5%93%A8%E5%85%B5%E3%80%81%E6%8C%81%E4%B9%85%E5%8C%96%E3%80%81LRU.md)
@@ -129,16 +138,22 @@
   - [Redis—分布式锁深入探究](https://mp.weixin.qq.com/s/49hgH3COla3wU0rgyiUVgg)
   - [Redis—跳跃表](https://mp.weixin.qq.com/s/NOsXdrMrWwq4NTm180a6vw)
   - [Redis—5种基本数据结构](https://mp.weixin.qq.com/s/MT1tB2_7f5RuOxKhuEm1vQ)
-- [消息队列](https://github.com/AobingJava/JavaFamily/tree/master/docs/mq)
 
+- [消息队列](https://github.com/AobingJava/JavaFamily/tree/master/docs/mq)
+  - [面试官问我：什么是消息队列？什么场景需要他？用了会出现什么问题](https://blog.csdn.net/qq_35190492/article/details/103153444)
   - [消息队列基础知识](https://github.com/AobingJava/JavaFamily/blob/master/docs/mq/%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97%E5%9F%BA%E7%A1%80.md)
   - [消息重复消费、分布式事务、顺序消费](https://github.com/AobingJava/JavaFamily/blob/master/docs/mq/%E9%87%8D%E5%A4%8D%E6%B6%88%E8%B4%B9%E3%80%81%E9%A1%BA%E5%BA%8F%E6%B6%88%E8%B4%B9%E3%80%81%E5%88%86%E5%B8%83%E5%BC%8F%E4%BA%8B%E5%8A%A1.md)
   - [Kafka架构与原理](https://mp.weixin.qq.com/s/-IPfWPS1WQMEgcIu0Ak2VQ)
   - [RocketMQ](https://github.com/AobingJava/JavaFamily/blob/master/docs/mq/RocketMQ.md)
 
+- 爬虫
+ - 【用简单的方式讲scrapy-redis爬虫分布式策略】(https://blog.csdn.net/qiulin_wu/article/details/104872217)
+ 
 - 数据库
-
   - [MySQL](http://c.biancheng.net/mysql/)
+  - [MySQL死锁](https://www.cnblogs.com/zejin2008/p/5262751.html)
+  - [Mysql并发时经典常见的死锁原因及解决方法](https://www.cnblogs.com/zejin2008/p/5262751.html)
+  - [MySQL千万级数据库查询怎么提高查询效率](https://blog.csdn.net/qq_39416311/article/details/82315090)
   - [索引、锁机制](https://juejin.im/post/5b55b842f265da0f9e589e79)
   - [事务特性、隔离级别](https://www.jianshu.com/p/4963c5e038eb)
   - [MySQL调优与最佳实践](https://www.jianshu.com/p/9d438bbd2afc)
@@ -149,8 +164,9 @@
   - [数据库基础知识](https://mp.weixin.qq.com/s/NDL1Q6nqdPq5oMBWSpq4ug)
   - [原来MySQL面试还会问这些(undo log)](https://mp.weixin.qq.com/s/Lx4TNPLQzYaknR7D3gmOmQ)
   - [数据库连接池到底应该设多大？这篇文章可能会颠覆你的认知](https://mp.weixin.qq.com/s/dQFSrXEmgBMh1PW835rlwQ)
+  - [不用找了，大厂在用的分库分表方案，都在这里！](https://www.cnblogs.com/Howinfun/articles/11887916.html)
+  
 - 大数据
-
   - ODPS离线分析
   - Hive
   - Spark
@@ -176,6 +192,7 @@
   - [互联网架构之路](https://zhuanlan.zhihu.com/p/42115757)
   - 怎么设计一个能顶住双十一的系统？[[1]](https://blog.csdn.net/gb4215287/article/details/90173705),[[2]](https://www.lagou.com/lgeduarticle/68325.html)
   - [吊到面试官](https://zhuanlan.zhihu.com/p/92307325)
+  - [微服务的架构介绍发展](https://blog.csdn.net/qq_42897427/article/details/104921630)
 
 - 互联网前沿技术
 
@@ -196,6 +213,9 @@
   - [为什么阿里巴巴要求谨慎使用ArrayList中的subList方法](https://mp.weixin.qq.com/s/9y89Hy-YnpPjXpcmXpy_GQ)
   
 - 面试真题
+  - [8年互联网老兵，2个月面试20家大厂的知识点总结和建议](https://blog.csdn.net/qq_35190492/article/details/104914487)
+  - [这61道面试题（阿里，美团，携程，百度）](https://blog.csdn.net/Sqdmn/article/details/104908489)
+  - [远程面试了几个大厂成功拿到阿里offer，分享面试大厂你需要具备哪些能力](https://blog.csdn.net/cxytony/article/details/104922771)
   - [2020 字节跳动后端面经分享！已拿 offer!](https://mp.weixin.qq.com/s/hr2pDs2wsiHQuDzW7jmOow)
   - [春招字节跳动、蘑菇街四轮面试，分别问了啥？](https://mp.weixin.qq.com/s/xBC1IRr6v8hmIJ9lqCp5pQ)
   - [敖丙8年经验读者，疫情期间面20家大厂总结](https://mp.weixin.qq.com/s/AQvDX0n8wBBaWl2OmcpnrA)
