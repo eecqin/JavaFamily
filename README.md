@@ -41,7 +41,7 @@
 
 - Java基础核心串讲
 
-  - 计算机操作系统与Linux[(novice)](https://blog.csdn.net/zhenguo26/article/details/80754991)[master](https://www.redhat.com/zh/topics/linux/what-is-linux)[guru]
+  - 计算机操作系统与Linux[[novice]](https://blog.csdn.net/zhenguo26/article/details/80754991)[master](https://www.redhat.com/zh/topics/linux/what-is-linux)[guru]
   - [学习linux命令，看这篇2w多字的命令详解就够了](https://mp.weixin.qq.com/s/7bSwKiPmtJbs7FtRWZZqpA)
   - [图解HTTP协议](https://mp.weixin.qq.com/s/AK1Pb9rx0q5Hf8dq6HNOhw)
   - 计算机网络
