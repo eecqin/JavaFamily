@@ -37,7 +37,19 @@
 ![](https://tva1.sinaimg.cn/large/0082zybply1gcb2u3keh9j30p02j4h2r.jpg)
 # 目录(擅用Ctrl+F)
 
-注 : 没链接的是还没写
+- System design githubs
+  - [System Design Primer](https://github.com/donnemartin/system-design-primer)
+  - [System Design Interview](https://github.com/checkcheckzz/system-design-interview)
+  - [System Design Cheat Sheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
+  - [System Design Preparation](https://github.com/shashank88/system_design)
+  - [Awesome Scalablity](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
+  - [System-design-interview](https://github.com/plasm0dium/system-design-interview)
+  - [搞定面试中的系统设计题](https://jiajunhuang.com/articles/2019_04_29-system_design.md.html)
+  - [如何答好面试中的系统设计题](https://www.zhihu.com/question/26312148)
+  - [一亩三分地](https://www.1point3acres.com/bbs/forum.php?mod=forumdisplay&fid=323&filter=typeid&typeid=1025)
+  - [米群](http://www.meetqun.net/forum-83-1.html)
+
+- [Web](https://jiajunhuang.com/articles/2017_10_19-web_dev_series.md.html)
 
 - Java基础核心串讲
 
