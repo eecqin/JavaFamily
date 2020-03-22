@@ -37,6 +37,9 @@
 ![](https://tva1.sinaimg.cn/large/0082zybply1gcb2u3keh9j30p02j4h2r.jpg)
 # 目录(擅用Ctrl+F)
 
+- 优秀github
+  - [成为专业程序员路上用到的各种优秀资料、神器及框架 ](https://github.com/stanzhai/be-a-professional-programmer)
+  
 - System design githubs
   - [System Design Primer](https://github.com/donnemartin/system-design-primer)
   - [System Design Interview](https://github.com/checkcheckzz/system-design-interview)
