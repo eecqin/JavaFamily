@@ -15,7 +15,8 @@
   - Understand necessary? 根据需求, e,g. QPS, 来设计多牛的系统，单机->分布式，monolithic to microservice
   - Design a workable solution
   - Evaluate again Performance, Availability, Scalability and find bottleneck/pain points
-  - Evolve design incrementally 
+  - Evolve design incrementally
+  - 从小到大，按需求进化，而不是直接抛出一个microservice 来overdesign, 发现问题比解决问题更重要
 
 - System design githubs
   - [System Design Primer](https://github.com/donnemartin/system-design-primer)
@@ -45,12 +46,24 @@
   - [别扯了，这才是应对高并发的正确处理思路！](https://www.cnblogs.com/Howinfun/articles/11946952.html)
   - [一文读懂分布式架构知识体系](https://www.cnblogs.com/Howinfun/articles/11840841.html)
   
+- Web server
+  - 功能
+     - Load balance
+     - Cache
+     - Container?
+  - [三大WEB服务器对比分析（apache ,lighttpd,nginx)](http://www.blogjava.net/daniel-tu/archive/2008/12/29/248883.html)
+  
 - QPS
   - 分析出 QPS 有什么用?		
-   -  QPS = 100： 用你的笔记本做 Web 服务器就好了					
-   -  QPS=1k: 用一台好点的 Web 服务器就差不多了，但需要考虑 Single Point Failure								
-   -  QPS=1m: 需要建设一个1000台 Web 服务器的集群, 还需要考虑如何 Maintainance(某一台挂了怎么办)
-
+     - QPS = 100： 用你的笔记本做 Web 服务器就好了					
+     - QPS=1k: 用一台好点的 Web 服务器就差不多了，但需要考虑 Single Point Failure								
+     - QPS=1m: 需要建设一个1000台 Web 服务器的集群, 还需要考虑如何 Maintainance(某一台挂了怎么办)
+  - QPS和 
+  (服务器) / Database (数据库) 之间的关系	
+     - 一台 Web Server 约承受量是 1k 的 QPS (考虑到逻辑处理时间以及数据库查询的瓶颈)
+     - 一台 SQL Database 约承受量是 1k 的 QPS(如果 JOIN 和 INDEX query比较多的话，这个值会更小)
+     - 一台 NoSQL Database (Cassandra) 约承受量是 10k 的 QPS			
+     - 一台 NoSQL Database (Memcached) 约承受量是 1M 的 QPS
   - [如何提高系统的吞吐量（QPS/TPS)](https://juejin.im/post/5af645f651882567105fd1b2)
   - [服务器性能指标解释：QPS、TPS、RT、Load、PV、UV](https://blog.csdn.net/qq_39416311/article/details/84892625)
   - [深入浅出QPS、RT和最佳线程数](https://www.jianshu.com/p/8532ac88ce72)
