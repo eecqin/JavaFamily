@@ -55,6 +55,7 @@
 - [Web](https://jiajunhuang.com/articles/2017_10_19-web_dev_series.md.html)
 
 - 高并发/高可用
+  - [总结分布式系统的核心就是解决一个问题：不同节点间如何达成共识](https://zhuanlan.zhihu.com/p/25074310): 看似简单的问题因网络丢包、节点宕机恢复等场景变得复杂，由此才衍生出很多概念、协议和理论。为探究共识问题最大能解决的程度，于是有FLP、CAP边界理论；为在特定条件和范围内解决该问题，于是有一致性协议Paxos、Raft、Zab和Viewstamped Replication；为构建这些协议，于是有多数派、Leader选举、租约、逻辑时钟等概念和方法。
   - [别扯了，这才是应对高并发的正确处理思路！](https://www.cnblogs.com/Howinfun/articles/11946952.html)
   - [一文读懂分布式架构知识体系](https://www.cnblogs.com/Howinfun/articles/11840841.html)
   
