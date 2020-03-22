@@ -2,6 +2,7 @@
 
 - 优秀github
   - [成为专业程序员路上用到的各种优秀资料、神器及框架 ](https://github.com/stanzhai/be-a-professional-programmer)
+  
 
 - 系统设计面试的评分标准
   - 可行解 Work Solution 25% 
@@ -10,6 +11,13 @@
   - 权衡 Tradeoff 15%
   - 知识储备 Knowledge Base 15%
 
+- 网站架构及演进
+  - [京东架构专家分享京东架构之路](https://cloud.tencent.com/developer/article/1102801)
+  - [淘宝架构](https://github.com/davideuler/architecture.taobao-alibaba/tree/master/%E6%B7%98%E5%AE%9D%E6%9E%B6%E6%9E%84)
+  - [各大互联网公司架构演进之路汇总](http://www.hollischuang.com/archives/1036)
+  - [网站架构](https://github.com/nemoTyrant/manong/blob/master/category/%E7%BD%91%E7%AB%99%E6%9E%B6%E6%9E%84.md)
+  - [大型网站技术架构演进与性能优化](https://me.csdn.net/u011915230)
+  
 - System design interview tips (One claim always followed by one evidence)
   - Understand requirement: what key features/scenarios to support?
   - Understand necessary? 根据需求, e,g. QPS, 来设计多牛的系统，单机->分布式，monolithic to microservice
