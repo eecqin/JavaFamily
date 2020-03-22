@@ -1,8 +1,22 @@
-# 目录(擅用Ctrl+F)
+# 目录
 
 - 优秀github
   - [成为专业程序员路上用到的各种优秀资料、神器及框架 ](https://github.com/stanzhai/be-a-professional-programmer)
-  
+
+- 系统设计面试的评分标准
+  - 可行解 Work Solution 25% 
+  - 特定问题 Special Case 20% 
+  - 分析能力 Analysis 25%
+  - 权衡 Tradeoff 15%
+  - 知识储备 Knowledge Base 15%
+
+- System design interview tips (One claim always followed by one evidence)
+  - Understand requirement: what key features/scenarios to support?
+  - Understand necessary? 根据需求, e,g. QPS, 来设计多牛的系统，单机->分布式，monolithic to microservice
+  - Design a workable solution
+  - Evaluate again Performance, Availability, Scalability and find bottleneck/pain points
+  - Evolve design incrementally 
+
 - System design githubs
   - [System Design Primer](https://github.com/donnemartin/system-design-primer)
   - [System Design Interview](https://github.com/checkcheckzz/system-design-interview)
@@ -17,12 +31,26 @@
 
 - [Web](https://jiajunhuang.com/articles/2017_10_19-web_dev_series.md.html)
 
-- 高并发/高可用
+- 分布式系统理论
   - [总结分布式系统的核心就是解决一个问题：不同节点间如何达成共识](https://zhuanlan.zhihu.com/p/25074310): 看似简单的问题因网络丢包、节点宕机恢复等场景变得复杂，由此才衍生出很多概念、协议和理论。为探究共识问题最大能解决的程度，于是有FLP、CAP边界理论；为在特定条件和范围内解决该问题，于是有一致性协议Paxos、Raft、Zab和Viewstamped Replication；为构建这些协议，于是有多数派、Leader选举、租约、逻辑时钟等概念和方法。
+  - [一致性、2PC和3PC](https://link.zhihu.com/?target=http%3A//www.cnblogs.com/bangerlee/p/5268485.html)
+  - [时间、时钟和事件顺序](https://link.zhihu.com/?target=http%3A//www.cnblogs.com/bangerlee/p/5448766.html)
+  - [选举、多数派和租约](https://link.zhihu.com/?target=http%3A//www.cnblogs.com/bangerlee/p/5767845.html)
+  - [CAP](https://link.zhihu.com/?target=http%3A//www.cnblogs.com/bangerlee/p/5328888.html)
+  - [Paxos](https://link.zhihu.com/?target=http%3A//www.cnblogs.com/bangerlee/p/5655754.html)
+  - [Raft、Zab](https://link.zhihu.com/?target=http%3A//www.cnblogs.com/bangerlee/p/5991417.html)
+  - [Paxos变种和优化](https://link.zhihu.com/?target=http%3A//www.cnblogs.com/bangerlee/p/6189646.html)  
+
+- 高并发/高可用
   - [别扯了，这才是应对高并发的正确处理思路！](https://www.cnblogs.com/Howinfun/articles/11946952.html)
   - [一文读懂分布式架构知识体系](https://www.cnblogs.com/Howinfun/articles/11840841.html)
   
 - QPS
+  - 分析出 QPS 有什么用?		
+   -  QPS = 100： 用你的笔记本做 Web 服务器就好了					
+   -  QPS=1k: 用一台好点的 Web 服务器就差不多了，但需要考虑 Single Point Failure								
+   -  QPS=1m: 需要建设一个1000台 Web 服务器的集群, 还需要考虑如何 Maintainance(某一台挂了怎么办)
+
   - [如何提高系统的吞吐量（QPS/TPS)](https://juejin.im/post/5af645f651882567105fd1b2)
   - [服务器性能指标解释：QPS、TPS、RT、Load、PV、UV](https://blog.csdn.net/qq_39416311/article/details/84892625)
   - [深入浅出QPS、RT和最佳线程数](https://www.jianshu.com/p/8532ac88ce72)
@@ -82,7 +110,7 @@
   - [Spring全家桶以及源码分析](https://zhuanlan.zhihu.com/p/102534886)
   - [外行人都能看懂的SpringCloud，错过了血亏！](https://mp.weixin.qq.com/s/MJrahcDXwxgDr5zBdO3XWw)
   - [高性能NIO框架-Netty](http://www.52im.net/thread-2190-1-1.html)
-  - [分布式框架基石-RPC](https://zhuanlan.zhihu.com/p/20951077)
+  - [分布式框架基石-RPC](https://zhuanlan.zhihu.com/p/20951077)[[geeks4geeks]](https://www.geeksforgeeks.org/remote-procedure-call-rpc-in-operating-system/)
   - ORM框架Mybatis源码分析
   - [20000 字的 Spring Cloud 总结](https://mp.weixin.qq.com/s/pGSx8eKFH3YnUos3SM2ITw)
   - [什么是Zookeeper](https://mp.weixin.qq.com/s/gphDLJMO3QcRoN3zkco4EA)
