@@ -166,6 +166,8 @@
  - 【用简单的方式讲scrapy-redis爬虫分布式策略】(https://blog.csdn.net/qiulin_wu/article/details/104872217)
  
 - 数据库
+  - 【“有了数据库，为什么还要使用搜索引擎？”】（https://github.com/lanlin/notes/issues/27）
+  - 【分布式数据库与搜索引擎的搜索效率，区别在哪里？】（https://www.zhihu.com/question/30930816）
   - [MySQL](http://c.biancheng.net/mysql/)
   - [MySQL死锁](https://www.cnblogs.com/zejin2008/p/5262751.html)
   - [Mysql并发时经典常见的死锁原因及解决方法](https://www.cnblogs.com/zejin2008/p/5262751.html)
