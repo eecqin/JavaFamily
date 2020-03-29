@@ -3,6 +3,10 @@
 - 优秀github
   - [成为专业程序员路上用到的各种优秀资料、神器及框架 ](https://github.com/stanzhai/be-a-professional-programmer)
   
+- 互联网101
+  -【互联网是如何工作的】（https://developer.mozilla.org/zh-CN/docs/learn/How_the_Internet_works）
+  -【菜鸟教程】（https://www.runoob.com/）
+  -【没有IT背景的人，怎么系统的学习web后端开发？】（https://www.zhihu.com/question/24407253）
 
 - 系统设计面试的评分标准
   - 可行解 Work Solution 25% 
@@ -17,6 +21,9 @@
   - [各大互联网公司架构演进之路汇总](http://www.hollischuang.com/archives/1036)
   - [网站架构](https://github.com/nemoTyrant/manong/blob/master/category/%E7%BD%91%E7%AB%99%E6%9E%B6%E6%9E%84.md)
   - [大型网站技术架构演进与性能优化](https://me.csdn.net/u011915230)
+  - (这几个问题解决了，怎么设计大型网站架构不再是困难)（https://m.sohu.com/n/481584464/）
+  -【《从0开始学架构》《大型网站架构设计》读书笔记】（https://juejin.im/post/5d5767a26fb9a06b2548e24b）
+  -【web开发入门教程】（https://www.jianshu.com/nb/13438236）
   
 - System design interview tips (One claim always followed by one evidence)
   - Understand requirement: what key features/scenarios to support?
@@ -50,6 +57,10 @@
   - [Raft、Zab](https://link.zhihu.com/?target=http%3A//www.cnblogs.com/bangerlee/p/5991417.html)
   - [Paxos变种和优化](https://link.zhihu.com/?target=http%3A//www.cnblogs.com/bangerlee/p/6189646.html)  
 
+- 101
+  - 【Web server vs. Application server】[baseic](https://stackoverflow.com/questions/936197/what-is-the-difference-between-application-server-and-web-server/936257#936257),[advanced](https://howtodoinjava.com/tomcat/a-birds-eye-view-on-how-web-servers-work/)
+  - 【为什么需要数据库】(https://www.liaoxuefeng.com/wiki/1177760294764384/1179613436834240)
+  
 - 高并发/高可用
   - [别扯了，这才是应对高并发的正确处理思路！](https://www.cnblogs.com/Howinfun/articles/11946952.html)
   - [一文读懂分布式架构知识体系](https://www.cnblogs.com/Howinfun/articles/11840841.html)
@@ -60,6 +71,7 @@
      - Cache
      - Container?
   - [三大WEB服务器对比分析（apache ,lighttpd,nginx)](http://www.blogjava.net/daniel-tu/archive/2008/12/29/248883.html)
+  
   
 - QPS
   - 分析出 QPS 有什么用?		
