@@ -7,7 +7,23 @@
   -【互联网是如何工作的】（https://developer.mozilla.org/zh-CN/docs/learn/How_the_Internet_works）
   -【菜鸟教程】（https://www.runoob.com/）
   -【没有IT背景的人，怎么系统的学习web后端开发？】（https://www.zhihu.com/question/24407253）
-
+  - 【Web server vs. Application server】[baseic](https://stackoverflow.com/questions/936197/what-is-the-difference-between-application-server-and-web-server/936257#936257),[advanced](https://howtodoinjava.com/tomcat/a-birds-eye-view-on-how-web-servers-work/)
+  - 【为什么需要数据库】(https://www.liaoxuefeng.com/wiki/1177760294764384/1179613436834240)
+  -【Apache、PHP、MySQL 搭建动态网站的访问流程】（https://www.imyeyu.net/article/public/aid8.html）
+  -【php 入门】（https://zhuanlan.zhihu.com/p/107569252）
+  - 【PHP 教程】（https://www.runoob.com/php/php-tutorial.html）
+  -[「每日一题」什么是 Web 服务器（server）](https://zhuanlan.zhihu.com/p/22544725)
+  -【阮一峰互联网协议入门学习笔记】（https://segmentfault.com/a/1190000013006916）
+  -【看完这篇HTTP，跟面试官扯皮就没问题了】（https://blog.csdn.net/qq_36894974/article/details/103930478）
+  -【一文带你看清 HTTP 所有概念】（https://blog.csdn.net/qq_36894974/article/details/104044932）
+  -【看完这篇垃圾回收，和面试官扯皮没问题了】（https://blog.csdn.net/hollis_chuang/article/details/104140327）
+  -【看完这篇TCP，和面试官扯皮就没问题了】（https://blog.csdn.net/JAck_chen0309/article/details/104905504）
+  -【一个程序在计算机中是如何运行的？超级干货！！！】（https://blog.csdn.net/sinat_33921105/article/details/104047172）
+  -【MySQL中的实例、数据库关系简介】（https://zhuanlan.zhihu.com/p/87964893）
+  -【W3Techs - World Wide Web Technology Surveys】（https://w3techs.com/）
+  -【LAMP架构介绍】（https://cloud.tencent.com/developer/article/1038185）
+  -【漫谈大型网站架构】（https://cloud.tencent.com/developer/article/1181729）
+  
 - 系统设计面试的评分标准
   - 可行解 Work Solution 25% 
   - 特定问题 Special Case 20% 
@@ -49,6 +65,7 @@
 
 - 分布式系统理论
   - [总结分布式系统的核心就是解决一个问题：不同节点间如何达成共识](https://zhuanlan.zhihu.com/p/25074310): 看似简单的问题因网络丢包、节点宕机恢复等场景变得复杂，由此才衍生出很多概念、协议和理论。为探究共识问题最大能解决的程度，于是有FLP、CAP边界理论；为在特定条件和范围内解决该问题，于是有一致性协议Paxos、Raft、Zab和Viewstamped Replication；为构建这些协议，于是有多数派、Leader选举、租约、逻辑时钟等概念和方法。
+  - 【分布式系统架构及原理】（https://zhuanlan.zhihu.com/p/100669831）
   - [一致性、2PC和3PC](https://link.zhihu.com/?target=http%3A//www.cnblogs.com/bangerlee/p/5268485.html)
   - [时间、时钟和事件顺序](https://link.zhihu.com/?target=http%3A//www.cnblogs.com/bangerlee/p/5448766.html)
   - [选举、多数派和租约](https://link.zhihu.com/?target=http%3A//www.cnblogs.com/bangerlee/p/5767845.html)
@@ -56,14 +73,11 @@
   - [Paxos](https://link.zhihu.com/?target=http%3A//www.cnblogs.com/bangerlee/p/5655754.html)
   - [Raft、Zab](https://link.zhihu.com/?target=http%3A//www.cnblogs.com/bangerlee/p/5991417.html)
   - [Paxos变种和优化](https://link.zhihu.com/?target=http%3A//www.cnblogs.com/bangerlee/p/6189646.html)  
-
-- 101
-  - 【Web server vs. Application server】[baseic](https://stackoverflow.com/questions/936197/what-is-the-difference-between-application-server-and-web-server/936257#936257),[advanced](https://howtodoinjava.com/tomcat/a-birds-eye-view-on-how-web-servers-work/)
-  - 【为什么需要数据库】(https://www.liaoxuefeng.com/wiki/1177760294764384/1179613436834240)
   
 - 高并发/高可用
   - [别扯了，这才是应对高并发的正确处理思路！](https://www.cnblogs.com/Howinfun/articles/11946952.html)
   - [一文读懂分布式架构知识体系](https://www.cnblogs.com/Howinfun/articles/11840841.html)
+  -【高可靠和高可用的区别】（https://zhuanlan.zhihu.com/p/107282067）
   
 - Web server
   - 功能
@@ -150,6 +164,9 @@
   - [什么是单点登录(SSO)](https://mp.weixin.qq.com/s/drPVkRbCsDIlX6Ls2pDmqA)
   
 - [高并发架构基石-缓存](https://github.com/AobingJava/JavaFamily/tree/master/docs/redis)
+  -【缓存架构设计】（https://zhuanlan.zhihu.com/p/110340837）
+  -【高频面试题：如何保证缓存与数据库的双写一致性？】（https://zhuanlan.zhihu.com/p/113736564）
+  -【缓存的设计与使用，值得我们去思考（值得一看）】（https://zhuanlan.zhihu.com/p/94847283）
   - [高并发场景下缓存处理的一些思路！](https://www.cnblogs.com/Howinfun/p/11661450.html)
   - [Redis基础知识](https://github.com/AobingJava/JavaFamily/blob/master/docs/redis/Redis%E5%9F%BA%E7%A1%80.md)
   - [缓存击穿、雪崩、穿透](https://github.com/AobingJava/JavaFamily/blob/master/docs/redis/%E7%BC%93%E5%AD%98%E5%87%BB%E7%A9%BF%E3%80%81%E9%9B%AA%E5%B4%A9%E3%80%81%E7%A9%BF%E9%80%8F.md)
@@ -157,6 +174,7 @@
   - [分布式锁、并发竞争、双写一致性](https://github.com/AobingJava/JavaFamily/blob/master/docs/redis/%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81%E3%80%81%E5%B9%B6%E5%8F%91%E7%AB%9E%E4%BA%89%E3%80%81%E5%8F%8C%E5%86%99%E4%B8%80%E8%87%B4%E6%80%A7.md)
   - [Redis常见面试题](https://github.com/AobingJava/JavaFamily/blob/master/docs/redis/Redis%E5%B8%B8%E8%A7%81%E9%9D%A2%E8%AF%95%E9%A2%98.md)
   - [布隆过滤器(BloomFilter)](https://github.com/AobingJava/JavaFamily/blob/master/docs/redis/%E5%B8%83%E9%9A%86%E8%BF%87%E6%BB%A4%E5%99%A8(BloomFilter).md)
+  - [面试官：你是怎么解决缓存穿透的？回答完，面试官眼睛亮了](https://zhuanlan.zhihu.com/p/112287913)
   - [秒杀系统设计](https://github.com/AobingJava/JavaFamily/blob/master/docs/redis/%E7%A7%92%E6%9D%80%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1.md)
   - [课代表总结](https://github.com/AobingJava/JavaFamily/blob/master/docs/redis/%E8%AF%BE%E4%BB%A3%E8%A1%A8%E6%80%BB%E7%BB%93.md)
   - [短小精悍之 Redis 命令行工具有趣的罕见用法](https://mp.weixin.qq.com/s/eSx4aL7iaMZlW0cPZswghA)
@@ -181,7 +199,10 @@
   - 【“有了数据库，为什么还要使用搜索引擎？”】（https://github.com/lanlin/notes/issues/27）
   - 【分布式数据库与搜索引擎的搜索效率，区别在哪里？】（https://www.zhihu.com/question/30930816）
   - [MySQL](http://c.biancheng.net/mysql/)
+  - [Mysql 索引、锁与存储的关系](https://zhuanlan.zhihu.com/p/86614991)
+  - [Mysql：主从复制原理及同步延迟问题](https://zhuanlan.zhihu.com/p/87150620)
   - [MySQL死锁](https://www.cnblogs.com/zejin2008/p/5262751.html)
+  - [mysql乐观锁、悲观锁、共享锁、排它锁、行锁、表锁](https://zhuanlan.zhihu.com/p/59559524)
   - [Mysql并发时经典常见的死锁原因及解决方法](https://www.cnblogs.com/zejin2008/p/5262751.html)
   - [MySQL千万级数据库查询怎么提高查询效率](https://blog.csdn.net/qq_39416311/article/details/82315090)
   - [索引、锁机制](https://juejin.im/post/5b55b842f265da0f9e589e79)
