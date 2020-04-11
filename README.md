@@ -2,6 +2,7 @@
 
 - 优秀github
   - [成为专业程序员路上用到的各种优秀资料、神器及框架 ](https://github.com/stanzhai/be-a-professional-programmer)
+  - [iBook](https://github.com/fancy88/iBook)
   
 - 互联网101
   -【互联网是如何工作的】（https://developer.mozilla.org/zh-CN/docs/learn/How_the_Internet_works）
