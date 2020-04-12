@@ -3,6 +3,7 @@
 - 优秀github
   - [成为专业程序员路上用到的各种优秀资料、神器及框架 ](https://github.com/stanzhai/be-a-professional-programmer)
   - [iBook](https://github.com/fancy88/iBook)
+  - [互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识，后端同学必看，前端同学也可学习](https://github.com/doocs/advanced-java)
   
 - 互联网101
   -【互联网是如何工作的】（https://developer.mozilla.org/zh-CN/docs/learn/How_the_Internet_works）
@@ -24,6 +25,7 @@
   -【W3Techs - World Wide Web Technology Surveys】（https://w3techs.com/）
   -【LAMP架构介绍】（https://cloud.tencent.com/developer/article/1038185）
   -【漫谈大型网站架构】（https://cloud.tencent.com/developer/article/1181729）
+  -[iOS Architecture Patterns](https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52#.ba5863nnx)
   
 - 系统设计面试的评分标准
   - 可行解 Work Solution 25% 
