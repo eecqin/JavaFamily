@@ -6,26 +6,26 @@
   - [互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识，后端同学必看，前端同学也可学习](https://github.com/doocs/advanced-java)
   
 - 互联网101
-  -【互联网是如何工作的】（https://developer.mozilla.org/zh-CN/docs/learn/How_the_Internet_works）
-  -【菜鸟教程】（https://www.runoob.com/）
-  -【没有IT背景的人，怎么系统的学习web后端开发？】（https://www.zhihu.com/question/24407253）
-  - 【Web server vs. Application server】[baseic](https://stackoverflow.com/questions/936197/what-is-the-difference-between-application-server-and-web-server/936257#936257),[advanced](https://howtodoinjava.com/tomcat/a-birds-eye-view-on-how-web-servers-work/)
-  - 【为什么需要数据库】(https://www.liaoxuefeng.com/wiki/1177760294764384/1179613436834240)
-  -【Apache、PHP、MySQL 搭建动态网站的访问流程】（https://www.imyeyu.net/article/public/aid8.html）
-  -【php 入门】（https://zhuanlan.zhihu.com/p/107569252）
-  - 【PHP 教程】（https://www.runoob.com/php/php-tutorial.html）
-  -[「每日一题」什么是 Web 服务器（server）](https://zhuanlan.zhihu.com/p/22544725)
-  -【阮一峰互联网协议入门学习笔记】（https://segmentfault.com/a/1190000013006916）
-  -【看完这篇HTTP，跟面试官扯皮就没问题了】（https://blog.csdn.net/qq_36894974/article/details/103930478）
-  -【一文带你看清 HTTP 所有概念】（https://blog.csdn.net/qq_36894974/article/details/104044932）
-  -【看完这篇垃圾回收，和面试官扯皮没问题了】（https://blog.csdn.net/hollis_chuang/article/details/104140327）
-  -【看完这篇TCP，和面试官扯皮就没问题了】（https://blog.csdn.net/JAck_chen0309/article/details/104905504）
-  -【一个程序在计算机中是如何运行的？超级干货！！！】（https://blog.csdn.net/sinat_33921105/article/details/104047172）
-  -【MySQL中的实例、数据库关系简介】（https://zhuanlan.zhihu.com/p/87964893）
-  -【W3Techs - World Wide Web Technology Surveys】（https://w3techs.com/）
-  -【LAMP架构介绍】（https://cloud.tencent.com/developer/article/1038185）
-  -【漫谈大型网站架构】（https://cloud.tencent.com/developer/article/1181729）
-  -[iOS Architecture Patterns](https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52#.ba5863nnx)
+  - [互联网是如何工作的]（https://developer.mozilla.org/zh-CN/docs/learn/How_the_Internet_works）
+  - [菜鸟教程]（https://www.runoob.com/）
+  - [没有IT背景的人，怎么系统的学习web后端开发？]（https://www.zhihu.com/question/24407253）
+  - [Web server vs. Application server][basic](https://stackoverflow.com/questions/936197/what-is-the-difference-between-application-server-and-web-server/936257#936257),[advanced](https://howtodoinjava.com/tomcat/a-birds-eye-view-on-how-web-servers-work/)
+  - [为什么需要数据库](https://www.liaoxuefeng.com/wiki/1177760294764384/1179613436834240)
+  - [Apache、PHP、MySQL 搭建动态网站的访问流程]（https://www.imyeyu.net/article/public/aid8.html）
+  - [php 入门]（https://zhuanlan.zhihu.com/p/107569252）
+  - [PHP 教程]（https://www.runoob.com/php/php-tutorial.html）
+  - [「每日一题」什么是 Web 服务器（server）](https://zhuanlan.zhihu.com/p/22544725)
+  - [阮一峰互联网协议入门学习笔记]（https://segmentfault.com/a/1190000013006916）
+  - [看完这篇HTTP，跟面试官扯皮就没问题了]（https://blog.csdn.net/qq_36894974/article/details/103930478）
+  - [一文带你看清 HTTP 所有概念]（https://blog.csdn.net/qq_36894974/article/details/104044932）
+  - [看完这篇垃圾回收，和面试官扯皮没问题了]（https://blog.csdn.net/hollis_chuang/article/details/104140327）
+  - [看完这篇TCP，和面试官扯皮就没问题了]（https://blog.csdn.net/JAck_chen0309/article/details/104905504）
+  - [一个程序在计算机中是如何运行的？超级干货！！！]（https://blog.csdn.net/sinat_33921105/article/details/104047172）
+  - [MySQL中的实例、数据库关系简介]（https://zhuanlan.zhihu.com/p/87964893）
+  - [W3Techs - World Wide Web Technology Surveys]（https://w3techs.com/）
+  - [LAMP架构介绍]（https://cloud.tencent.com/developer/article/1038185）
+  - [漫谈大型网站架构]（https://cloud.tencent.com/developer/article/1181729）
+  - [iOS Architecture Patterns](https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52#.ba5863nnx)
   
 - 系统设计面试的评分标准
   - 可行解 Work Solution 25% 
@@ -83,12 +83,14 @@
   -【高可靠和高可用的区别】（https://zhuanlan.zhihu.com/p/107282067）
   
 - Web server
-  - 功能
+  - [功能](https://juejin.im/post/5e1f2de45188254c45778cda)
      - Load balance
      - Cache
-     - Container?
+     - 动静分离
   - [三大WEB服务器对比分析（apache ,lighttpd,nginx)](http://www.blogjava.net/daniel-tu/archive/2008/12/29/248883.html)
-  
+  - [深入拆解Tomcat&Jetty(一)]（https://juejin.im/post/5e869b7f51882573a5099dc8）
+  - [Tomcat就是这么简单]（https://juejin.im/post/5a75b0be5188254e761781d7）
+  - [WebSocket的故事（一）—— WebSocket的由来]（https://juejin.im/post/5b6ef32fe51d4519610e5e7e）
   
 - QPS
   - 分析出 QPS 有什么用?		
