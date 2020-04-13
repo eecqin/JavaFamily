@@ -4,6 +4,7 @@
   - [成为专业程序员路上用到的各种优秀资料、神器及框架 ](https://github.com/stanzhai/be-a-professional-programmer)
   - [iBook](https://github.com/fancy88/iBook)
   - [互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识，后端同学必看，前端同学也可学习](https://github.com/doocs/advanced-java)
+  - [中华石杉--互联网Java进阶面试训练营](https://github.com/shishan100/Java-Interview-Advanced)
   
 - 互联网101
   - [互联网是如何工作的]（https://developer.mozilla.org/zh-CN/docs/learn/How_the_Internet_works）
@@ -26,14 +27,13 @@
   - [LAMP架构介绍]（https://cloud.tencent.com/developer/article/1038185）
   - [漫谈大型网站架构]（https://cloud.tencent.com/developer/article/1181729）
   - [iOS Architecture Patterns](https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52#.ba5863nnx)
+  - [谷歌是如何做负载均衡](https://zhuanlan.zhihu.com/p/23826170)
+  - [浅谈负载均衡算法与实现](https://zhuanlan.zhihu.com/p/59154019)
+  - [聊聊负载均衡](https://zhuanlan.zhihu.com/p/80725573)
+  - [BIO、NIO、AIO](https://juejin.im/post/5e894a32e51d4546f87858c1)
+  - [MVC、RPC、SOA、微服务架构之间的区别](https://zhuanlan.zhihu.com/p/86408537)
+  - [白话 MVC、MVP、MVVP](https://zhuanlan.zhihu.com/p/94263106)
   
-- 系统设计面试的评分标准
-  - 可行解 Work Solution 25% 
-  - 特定问题 Special Case 20% 
-  - 分析能力 Analysis 25%
-  - 权衡 Tradeoff 15%
-  - 知识储备 Knowledge Base 15%
-
 - 网站架构及演进
   - [京东架构专家分享京东架构之路](https://cloud.tencent.com/developer/article/1102801)
   - [淘宝架构](https://github.com/davideuler/architecture.taobao-alibaba/tree/master/%E6%B7%98%E5%AE%9D%E6%9E%B6%E6%9E%84)
@@ -51,6 +51,12 @@
   - Evaluate again Performance, Availability, Scalability and find bottleneck/pain points
   - Evolve design incrementally
   - 从小到大，按需求进化，而不是直接抛出一个microservice 来overdesign, 发现问题比解决问题更重要
+  - 系统设计面试的评分标准
+    - 可行解 Work Solution 25% 
+    - 特定问题 Special Case 20% 
+    - 分析能力 Analysis 25%
+    - 权衡 Tradeoff 15%
+    - 知识储备 Knowledge Base 15%
 
 - System design githubs
   - [System Design Primer](https://github.com/donnemartin/system-design-primer)
@@ -90,6 +96,7 @@
   - [三大WEB服务器对比分析（apache ,lighttpd,nginx)](http://www.blogjava.net/daniel-tu/archive/2008/12/29/248883.html)
   - [深入拆解Tomcat&Jetty(一)]（https://juejin.im/post/5e869b7f51882573a5099dc8）
   - [Tomcat就是这么简单]（https://juejin.im/post/5a75b0be5188254e761781d7）
+  - [四张图带你了解Tomcat系统架构--让面试官颤抖的Tomcat回答系列！](https://juejin.im/entry/5b67f559518825018c4d0875)
   - [WebSocket的故事（一）—— WebSocket的由来]（https://juejin.im/post/5b6ef32fe51d4519610e5e7e）
   
 - QPS
