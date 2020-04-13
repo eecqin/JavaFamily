@@ -47,8 +47,8 @@
   - [网站架构](https://github.com/nemoTyrant/manong/blob/master/category/%E7%BD%91%E7%AB%99%E6%9E%B6%E6%9E%84.md)
   - [大型网站技术架构演进与性能优化](https://me.csdn.net/u011915230)
   - (这几个问题解决了，怎么设计大型网站架构不再是困难)（https://m.sohu.com/n/481584464/）
-  -【《从0开始学架构》《大型网站架构设计》读书笔记】（https://juejin.im/post/5d5767a26fb9a06b2548e24b）
-  -【web开发入门教程】（https://www.jianshu.com/nb/13438236）
+    - [《从0开始学架构》《大型网站架构设计》读书笔记]（https://juejin.im/post/5d5767a26fb9a06b2548e24b）
+    - [web开发入门教程]（https://www.jianshu.com/nb/13438236）
   
 - System design interview tips (One claim always followed by one evidence)
   - Understand requirement: what key features/scenarios to support?
