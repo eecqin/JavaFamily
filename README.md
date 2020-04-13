@@ -152,19 +152,6 @@
   - [如果你这样回答“什么是线程安全”，面试官都会对你刮目相看（建议珍藏）](https://mp.weixin.qq.com/s/WDeewsvWUEBIuabvVVhweA)
   - [乐观锁、悲观锁](https://mp.weixin.qq.com/s/WtAdXvaRuBZ-SXayIKu1mA)
   - [乐观锁和悲观锁的AQS、sync和Lock](https://blog.csdn.net/qq_35190492/article/details/104691668)
-
-- 常用工具集
-  - JVM问题排查工具-JMC
-  - IDEA开发神器
-  - 线上调试神器-btrace
-  - [Git原理与工作流](http://www.ruanyifeng.com/blog/2015/12/git-workflow.html)
-  - [Linux常用分析工具](https://blog.csdn.net/tjcwt2011/article/details/73903538)
- 
-- 数据结构与算法
-  - [从二叉搜索树到B+树](https://blog.csdn.net/z702143700/article/details/49079107)
-  - [经典问题之字符串](https://juejin.im/post/5b8f9aed6fb9a05d2e1b75d9)
-  - [经典问题之TOPK](https://juejin.im/entry/5c565fb7f265da2d84105958)
-  - [图解红黑树](https://mp.weixin.qq.com/s/-8JFh5iLr88XA4AJ9mMf6g)
   
 - 必会框架
 
@@ -206,9 +193,6 @@
   - [Kafka架构与原理](https://mp.weixin.qq.com/s/-IPfWPS1WQMEgcIu0Ak2VQ)
   - [RocketMQ](https://github.com/AobingJava/JavaFamily/blob/master/docs/mq/RocketMQ.md)
 
-- 爬虫
- - 【用简单的方式讲scrapy-redis爬虫分布式策略】(https://blog.csdn.net/qiulin_wu/article/details/104872217)
- 
 - 数据库
   - 【“有了数据库，为什么还要使用搜索引擎？”】（https://github.com/lanlin/notes/issues/27）
   - 【分布式数据库与搜索引擎的搜索效率，区别在哪里？】（https://www.zhihu.com/question/30930816）
@@ -231,18 +215,6 @@
   - [数据库连接池到底应该设多大？这篇文章可能会颠覆你的认知](https://mp.weixin.qq.com/s/dQFSrXEmgBMh1PW835rlwQ)
   - [不用找了，大厂在用的分库分表方案，都在这里！](https://www.cnblogs.com/Howinfun/articles/11887916.html)
   
-- 搜索引擎
-
-  - ElasticSearch
-  - Canal
-  - Kibana
-  - Lucene
-  - Logstash
-  
-- 优秀开源框架推荐
-
-  - [阿里巴巴开源限流系统 Sentinel 全解析](https://mp.weixin.qq.com/s/NgS9tL4IVwGZrssz7fURpA)
-
 - 架构演进之路
 
   - [从All in one 到微服务](https://www.jianshu.com/p/421cb5351bad)
