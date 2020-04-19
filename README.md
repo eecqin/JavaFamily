@@ -170,9 +170,9 @@
   - [什么是单点登录(SSO)](https://mp.weixin.qq.com/s/drPVkRbCsDIlX6Ls2pDmqA)
   
 - [高并发架构基石-缓存](https://github.com/AobingJava/JavaFamily/tree/master/docs/redis)
-  -【缓存架构设计】（https://zhuanlan.zhihu.com/p/110340837）
-  -【高频面试题：如何保证缓存与数据库的双写一致性？】（https://zhuanlan.zhihu.com/p/113736564）
-  -【缓存的设计与使用，值得我们去思考（值得一看）】（https://zhuanlan.zhihu.com/p/94847283）
+  - [缓存架构设计]（https://zhuanlan.zhihu.com/p/110340837）
+  - [高频面试题：如何保证缓存与数据库的双写一致性？]（https://zhuanlan.zhihu.com/p/113736564）
+  - [缓存的设计与使用，值得我们去思考（值得一看）]（https://zhuanlan.zhihu.com/p/94847283）
   - [高并发场景下缓存处理的一些思路！](https://www.cnblogs.com/Howinfun/p/11661450.html)
   - [Redis基础知识](https://github.com/AobingJava/JavaFamily/blob/master/docs/redis/Redis%E5%9F%BA%E7%A1%80.md)
   - [缓存击穿、雪崩、穿透](https://github.com/AobingJava/JavaFamily/blob/master/docs/redis/%E7%BC%93%E5%AD%98%E5%87%BB%E7%A9%BF%E3%80%81%E9%9B%AA%E5%B4%A9%E3%80%81%E7%A9%BF%E9%80%8F.md)
