@@ -3,6 +3,7 @@
 # 目录
 
 - 优秀github
+  - [必须深入理解的50个JAVA基础概念写文章](https://zhuanlan.zhihu.com/c_1046719595074949120)
   - [fast.ai](https://www.fast.ai/)
   - [成为专业程序员路上用到的各种优秀资料、神器及框架 ](https://github.com/stanzhai/be-a-professional-programmer)
   - [iBook](https://github.com/fancy88/iBook)
