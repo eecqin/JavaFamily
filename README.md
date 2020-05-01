@@ -3,7 +3,6 @@
 # 目录
 
 - 优秀github
-  - [必须深入理解的50个JAVA基础概念写文章](https://zhuanlan.zhihu.com/c_1046719595074949120)
   - [fast.ai](https://www.fast.ai/)
   - [成为专业程序员路上用到的各种优秀资料、神器及框架 ](https://github.com/stanzhai/be-a-professional-programmer)
   - [iBook](https://github.com/fancy88/iBook)
@@ -171,6 +170,7 @@
   - [什么是单点登录(SSO)](https://mp.weixin.qq.com/s/drPVkRbCsDIlX6Ls2pDmqA)
   
 - [高并发架构基石-缓存](https://github.com/AobingJava/JavaFamily/tree/master/docs/redis)
+  - [缓存更新的套路](https://coolshell.cn/articles/17416.html)
   - [缓存架构设计]（https://zhuanlan.zhihu.com/p/110340837）
   - [高频面试题：如何保证缓存与数据库的双写一致性？]（https://zhuanlan.zhihu.com/p/113736564）
   - [缓存的设计与使用，值得我们去思考（值得一看）]（https://zhuanlan.zhihu.com/p/94847283）
